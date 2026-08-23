@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../Contacts Solution (Console app)/BusinessLogic/BusinessLogic.csproj" Id="ee0a5b00-c7cf-4df7-912f-89ef89815475" />
+  <Project Path="../Contacts Solution (Console app)/DataAccess/DataAccess.csproj" Id="c1c2ddf1-adcf-4faa-9505-e3ced22b4931" />
+  <Project Path="Contacts Solution (WinForms).csproj" Id="f83a5f8c-daa0-4f8c-85ae-535f9a1ba7fb" />
+</Solution>
